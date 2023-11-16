@@ -30,8 +30,20 @@ h2, p, ul {
   float: right;
 }
 
+.image3 {
+  width: 20%;
+}
+
+.image3:hover {
+  width: 40%;
+}
+
 .final-logo {
   display: block;
   width: 15%;
   margin: 50px auto;
+}
+
+.other {
+  margin-top: 30px;
 }
