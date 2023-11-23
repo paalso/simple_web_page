@@ -20,6 +20,10 @@ h2, p, ul {
   margin-bottom: 20px;
 }
 
+img {
+  display: block;
+}
+
 .image1 {
   width: 40%;
   float: left;
@@ -36,6 +40,10 @@ h2, p, ul {
 
 .image3:hover {
   width: 40%;
+}
+
+.image4 {
+  width: 30%;
 }
 
 .final-logo {
