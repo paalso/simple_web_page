@@ -23,4 +23,4 @@ dateTimeElement.innerText = formattedDateTime;
 displayDateTime();
 
 // Обновляем дату и время каждую секунду
-// setInterval(displayDateTime, 1000);
+setInterval(displayDateTime, 1000);
